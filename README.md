@@ -1,8 +1,6 @@
 # Hi, I'm Danny! 👋
 Welcome to my GitHub profile.
 
-Welcome to my GitHub.
-
 I’m an AI Engineering student at Maestro.org, pursuing a **Bachelor’s degree** while building real-world, self-hosted infrastructure projects in my free time.
 
 My current focus includes React, Vite, Docker-based systems, and production-minded development workflows.
