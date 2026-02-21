@@ -1,10 +1,13 @@
 # Hi, I'm Danny! 👋
 Welcome to my GitHub profile.
 
-I'm a web developer learning and building projects while exploring **React, Vite, and self-hosted tools**.  
-I enjoy automating workflows and creating clean, maintainable code.
+Welcome to my GitHub.
 
----
+I’m an AI Engineering student at Maestro.org, pursuing a **Bachelor’s degree** while building real-world, self-hosted infrastructure projects in my free time.
+
+My current focus includes React, Vite, Docker-based systems, and production-minded development workflows.
+
+I’m passionate about automation, clean architecture, and writing maintainable, scalable code.
 
 ## 🛠️ Skills & Tools
 
